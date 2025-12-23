@@ -3,5 +3,6 @@
 **Input** : Standard Cost Estimate in Excel \
 **Output**: Spend Profile in Excel <br/>
 **Methodology**: Use of Python and Pandas to interpret the data passed into the program via the Input Excel Sheet, reformat and re-calculate the data, and present the data in an easily digestible Excel Format <br/>
-!(/assets/images/Screenshot 2025-12-23 142443.png)
+!(assets/images/Screenshot 2025-12-23 142443.png)
+
 
